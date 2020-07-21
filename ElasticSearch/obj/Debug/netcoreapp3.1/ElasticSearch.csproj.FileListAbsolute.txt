@@ -12,3 +12,8 @@ C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\E
 C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.dll
 C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.pdb
 C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.genruntimeconfig.cache
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.csproj.CopyComplete
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.csproj.CoreCompileInputs.cache

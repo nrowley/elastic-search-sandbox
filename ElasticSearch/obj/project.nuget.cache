@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m5vNO9wn01EN58yXI/r2bK/EY6cgSmGcKOlGhXgcJ0tgZzBmcnLy2Sck+NxpP2lYNstTwsLtSCpfxxS0JdlvAA==",
+  "dgSpecHash": "4lRGWjTUKDDNzw1+QFKo2TQT2GKLK70VTRLeP1VHZ8P5gyjIPs4qmDn8dWjRf/Qv/mSWGiv/bAiUVm83iT5XMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\ElasticSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nrowley\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",
     "C:\\Users\\nrowley\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\nrowley\\.nuget\\packages\\nest\\7.8.1\\nest.7.8.1.nupkg.sha512",
+    "C:\\Users\\nrowley\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\nrowley\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\nrowley\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
   ],
