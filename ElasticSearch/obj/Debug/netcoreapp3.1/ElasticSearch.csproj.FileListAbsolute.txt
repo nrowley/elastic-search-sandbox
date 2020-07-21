@@ -1,0 +1,14 @@
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.exe
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.deps.json
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.runtimeconfig.json
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.runtimeconfig.dev.json
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.dll
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\bin\Debug\netcoreapp3.1\ElasticSearch.pdb
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.csprojAssemblyReference.cache
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.MainForm.resources
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.csproj.GenerateResource.cache
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.AssemblyInfoInputs.cache
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.AssemblyInfo.cs
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.dll
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.pdb
+C:\Users\nrowley\Documents\elasticsearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.genruntimeconfig.cache

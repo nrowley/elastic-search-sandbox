@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nelson\\source\\repos\\ElasticSearch\\ElasticSearch\\ElasticSearch.csproj": {}
+    "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\ElasticSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nelson\\source\\repos\\ElasticSearch\\ElasticSearch\\ElasticSearch.csproj": {
+    "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\ElasticSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelson\\source\\repos\\ElasticSearch\\ElasticSearch\\ElasticSearch.csproj",
+        "projectUniqueName": "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\ElasticSearch.csproj",
         "projectName": "ElasticSearch",
-        "projectPath": "C:\\Users\\nelson\\source\\repos\\ElasticSearch\\ElasticSearch\\ElasticSearch.csproj",
-        "packagesPath": "C:\\Users\\nelson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelson\\source\\repos\\ElasticSearch\\ElasticSearch\\obj\\",
+        "projectPath": "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\ElasticSearch.csproj",
+        "packagesPath": "C:\\Users\\nrowley\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nrowley\\Documents\\elasticsearch\\ElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nrowley\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
